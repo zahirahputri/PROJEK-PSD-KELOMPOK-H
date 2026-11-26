@@ -38,8 +38,8 @@ Algoritma yang dibandingkan: (sementara)
 2. Anggota Kelompok
 -   Sri Utami Desi Setyawati (K1D025068) | Github : '@utami.ds'
 -   Zahirah Putri Ramadhana (K1D025070) | Github : '@zahirahputri'
--   Hanna Allyaardana (K1D025072) | Github : '@hanna
--   Nisrinaya Aprilla (K1D025074) | Github : '@
+-   Hanna Allyaardana (K1D025072) | Github : '@hanna'
+-   Nisrinaya Aprilla (K1D025074) | Github : '@nisrinayaaprilla'
 Kelompok : H
 Kelas: Statistika B
 
