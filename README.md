@@ -31,15 +31,6 @@ Data dictionary:
 - `FWI`: Fire Weather Index (indeks FWI System)
 - `Classes`: target, berisi `fire` atau `not fire`
 
-Catatan kualitas data yang ditangani di notebook:
-- File CSV berisi dua blok data (Bejaia dan Sidi-Bel Abbes) yang dipisahkan baris judul wilayah di tengah file.
-  Baris judul dibuang dan kolom `Region` ditambahkan.
-- Nama kolom dan nilai kelas memiliki spasi berlebih (misalnya `" RH"`, `"Rain "`, `"not fire   "`) sehingga dirapikan.
-- Terdapat satu baris rusak (14 Juli 2012, Sidi-Bel Abbes) karena kolom `Classes` kosong dan nilainya bergeser.
-- Seluruh kolom awalnya terbaca sebagai teks, sehingga tipe data numerik diperbaiki.
-- Distribusi kelas relatif seimbang (sekitar 137 `fire` dan 106 `not fire`).
-- Potensi *data leakage* pada fitur indeks turunan seperti `FWI` dibahas pada tahap feature selection.
-
 Algoritma yang dibandingkan: (sementara)
 1. Logistic Regression
 2. Decision Tree
