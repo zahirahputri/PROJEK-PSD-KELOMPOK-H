@@ -40,6 +40,7 @@ Algoritma yang dibandingkan: (sementara)
 -   Zahirah Putri Ramadhana (K1D025070) | Github : '@zahirahputri'
 -   Hanna Allyaardana (K1D025072) | Github : '@hanna'
 -   Nisrinaya Aprilla (K1D025074) | Github : '@nisrinayaaprilla'
+
 Kelompok : H
 Kelas: Statistika B
 
